@@ -1,0 +1,14 @@
+1602630396796	geckodriver	INFO	Listening on 127.0.0.1:50533
+1602630399915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ademr\\AppData\\Local\\Temp\\rust_mozprofileMvXGhj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602630402991	Marionette	INFO	Listening on port 50541
+1602630403090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602630405198	Marionette	INFO	Stopped listening on port 50541
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ademr\AppData\Local\Temp\rust_mozprofileMvXGhj\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
