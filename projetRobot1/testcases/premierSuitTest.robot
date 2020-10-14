@@ -15,3 +15,6 @@ testCase02
      Input Text    name=q    automatisation 
      Close Browser
      
+testCase03
+    Log To Console    salut github    
+     
